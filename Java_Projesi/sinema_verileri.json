@@ -1,0 +1,4 @@
+{
+"filmler": [{"ad":"Avatar","sure":162,"tur":"Bilim Kurgu"},{"ad":"Parasite","sure":132,"tur":"Dram"},{"ad":"Joker","sure":122,"tur":"Psikolojik Gerilim"},{"ad":"Inception","sure":148,"tur":"Bilim Kurgu"},{"ad":"The Godfather","sure":175,"tur":"Suç/Dram"},{"ad":"The Dark Knight","sure":152,"tur":"Aksiyon"}],
+"salonlar": [{"id":1,"name":"1. Salon (VIP)","film":"Avatar"},{"id":2,"name":"2. Salon (Standart)","film":"Parasite"},{"id":3,"name":"3. Salon (Aile)","film":"Joker"},{"id":4,"name":"4. Salon (VIP)","film":"Inception"},{"id":5,"name":"5. Salon (Standart)","film":"The Godfather"},{"id":6,"name":"6. Salon (VIP)","film":"The Dark Knight"}]
+}
